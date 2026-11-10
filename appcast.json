@@ -1,11 +1,12 @@
 {
-  "version": "0.2.2",
-  "build": 5,
-  "notes": "版本 0.2.2",
-  "url": "https://raw.githubusercontent.com/lynnk666/folio_updates_mac/main/Folio-0.2.2-5.zip",
-  "sha256": "88accc2af7b5153c8490e5491a8ea486efb6175a33bbc69785c8d5bbeeb663a5",
-  "size": 1548590,
+  "version": "0.3.0",
+  "build": 6,
+  "notes": "首个签名公证版本",
+  "url": "https://raw.githubusercontent.com/lynnk666/folio_updates_mac/main/Folio-0.3.0-6.zip",
+  "sha256": "322f5504b01dfab52ca2fa0f73452622cf9f88b9e9a92a4012715677ea244f3d",
+  "size": 1557177,
   "minOS": "14.0",
-  "dmg": "Folio-0.2.2-5.dmg",
-  "dmgSize": 1712117
+  "dmg": "Folio-0.3.0-6.dmg",
+  "dmgSize": 1732722,
+  "dmgSha256": "b0cc17eee02e48ca59739b15612edb8b093fc343ee9c0246e04228020da967f7"
 }
