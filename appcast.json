@@ -1,12 +1,12 @@
 {
-  "version": "0.3.0",
-  "build": 6,
-  "notes": "首个签名公证版本",
-  "url": "https://raw.githubusercontent.com/lynnk666/folio_updates_mac/main/Folio-0.3.0-6.zip",
-  "sha256": "322f5504b01dfab52ca2fa0f73452622cf9f88b9e9a92a4012715677ea244f3d",
-  "size": 1557177,
+  "version": "0.4.0",
+  "build": 7,
+  "notes": "Double-click an image to preview it in place, with no round trip through Preview.\nUse the left and right arrow keys to flip through every image in the current folder, and the file list follows along.\nFolders and documents still open in your default app, exactly as before.",
+  "url": "https://raw.githubusercontent.com/lynnk666/folio_updates_mac/main/Folio-0.4.0-7.zip",
+  "sha256": "ec6da7fadc59ab8f1a91d577a1edb6f59a3d6f7676b09fbfe74ff70d703c9d4f",
+  "size": 1559110,
   "minOS": "14.0",
-  "dmg": "Folio-0.3.0-6.dmg",
-  "dmgSize": 1732722,
-  "dmgSha256": "b0cc17eee02e48ca59739b15612edb8b093fc343ee9c0246e04228020da967f7"
+  "dmg": "Folio-0.4.0-7.dmg",
+  "dmgSize": 1735209,
+  "notesZh": "双击图片即可就地预览，不用再跳到「预览」应用。\n用左右方向键在当前文件夹的图片之间翻页，文件列表会跟着走。\n文件夹和文档仍按原来的方式用默认应用打开。"
 }
