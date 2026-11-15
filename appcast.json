@@ -1,12 +1,12 @@
 {
   "version": "0.4.0",
-  "build": 7,
-  "notes": "Double-click an image to preview it in place, with no round trip through Preview.\nUse the left and right arrow keys to flip through every image in the current folder, and the file list follows along.\nFolders and documents still open in your default app, exactly as before.",
-  "url": "https://raw.githubusercontent.com/lynnk666/folio_updates_mac/main/Folio-0.4.0-7.zip",
-  "sha256": "ec6da7fadc59ab8f1a91d577a1edb6f59a3d6f7676b09fbfe74ff70d703c9d4f",
-  "size": 1559110,
+  "build": 8,
+  "notes": "Double-click an image to preview it in place, with no round trip through Preview.\nUse the left and right arrow keys to flip through every image in the current folder, and the file list follows along.\nFolders and documents still open in your default app, exactly as before.\nFixed a crash when the update dialog was shown.",
+  "url": "https://raw.githubusercontent.com/lynnk666/folio_updates_mac/main/Folio-0.4.0-8.zip",
+  "sha256": "4f23371ccea32cc0a997c0ef3403e9f27fe7115cf2254753fdf25b08e8c1e69b",
+  "size": 1559096,
   "minOS": "14.0",
-  "dmg": "Folio-0.4.0-7.dmg",
-  "dmgSize": 1735209,
-  "notesZh": "双击图片即可就地预览，不用再跳到「预览」应用。\n用左右方向键在当前文件夹的图片之间翻页，文件列表会跟着走。\n文件夹和文档仍按原来的方式用默认应用打开。"
+  "dmg": "Folio-0.4.0-8.dmg",
+  "dmgSize": 1735164,
+  "notesZh": "双击图片即可就地预览，不用再跳到「预览」应用。\n用左右方向键在当前文件夹的图片之间翻页，文件列表会跟着走。\n文件夹和文档仍按原来的方式用默认应用打开。\n修复打开更新窗口时的闪退。"
 }
