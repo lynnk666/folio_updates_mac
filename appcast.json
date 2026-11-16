@@ -1,12 +1,12 @@
 {
   "version": "0.4.1",
-  "build": 9,
-  "notes": "Renaming now sticks. A background refresh could reset the name field while you were typing, so your new name was silently discarded — fixed.\nRenaming to a name that already exists now tells you why, instead of quietly reverting.\nFolders and other files behave exactly as before.",
-  "url": "https://raw.githubusercontent.com/lynnk666/folio_updates_mac/main/Folio-0.4.1-9.zip",
-  "sha256": "26187f5f16d642e9a59825460e40002a42557b956bd6b6acb6ff12e14effd15c",
-  "size": 1561558,
+  "build": 10,
+  "notes": "Renaming now sticks. A background refresh could reset the name field while you were typing, so your new name was silently discarded — fixed.\nArrow keys now move the text cursor while renaming, instead of jumping to another file. Enter commits, Esc cancels.\nFolders and other files behave exactly as before.",
+  "url": "https://raw.githubusercontent.com/lynnk666/folio_updates_mac/main/Folio-0.4.1-10.zip",
+  "sha256": "506df1c31adf6c571d07138c37a171a4c9aee860b82a59dee1b702216dea2b6c",
+  "size": 1563316,
   "minOS": "14.0",
-  "dmg": "Folio-0.4.1-9.dmg",
-  "dmgSize": 1737995,
-  "notesZh": "重命名现在能真正保存了。之前编辑时后台刷新会重置名字输入框，改完的名字被静默丢弃——已修复。\n改成已存在的名字时会提示原因，不再默默复原。\n其它操作保持原样。"
+  "dmg": "Folio-0.4.1-10.dmg",
+  "dmgSize": 1740020,
+  "notesZh": "重命名现在能真正保存了。之前编辑时后台刷新会重置名字输入框，改完的名字被静默丢弃——已修复。\n重命名时左右方向键是移动文本光标，不再跳去选中别的文件；回车确认，Esc 取消。\n其它操作保持原样。"
 }
