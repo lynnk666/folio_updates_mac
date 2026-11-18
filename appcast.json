@@ -1,12 +1,12 @@
 {
-  "version": "0.4.1",
-  "build": 12,
-  "notes": "Renaming now sticks. A background refresh could reset the name field while you were typing, so your new name was silently discarded — fixed.\nArrow keys move the text cursor while renaming, instead of jumping to another file. Enter commits, Esc cancels.\nUpdates now check every 6 hours and whenever you switch back to Folio, with a backup update server.",
-  "url": "https://raw.githubusercontent.com/lynnk666/folio_updates_mac/main/Folio-0.4.1-12.zip",
-  "sha256": "1c445623f9281d624b19babb536a2b0ae3107f201049534ce8433096f97ba010",
-  "size": 1566957,
+  "version": "0.4.2",
+  "build": 13,
+  "notes": "Real byte-level copy progress with percentage, cancelable transfers mid-copy, and a spinner on the folder being copied. Improved localization for transfer messages.",
+  "url": "https://folio-cuy.pages.dev/files/Folio-0.4.2-13.zip",
+  "sha256": "3fd4dc0c367dbcadf923efb2bba034ef093d228a7d7ca38eed0e868c64f58d87",
+  "size": 1587942,
   "minOS": "14.0",
-  "dmg": "Folio-0.4.1-12.dmg",
-  "dmgSize": 1744130,
-  "notesZh": "重命名现在能真正保存了。之前编辑时后台刷新会重置名字输入框，改完的名字被静默丢弃——已修复。\n重命名时左右方向键是移动文本光标，不再跳去选中别的文件；回车确认，Esc 取消。\n更新改为每 6 小时检查一次，并在切回应用时补查；更新源加了备用线路。"
+  "dmg": "Folio-0.4.2-13.dmg",
+  "dmgSize": 1766644,
+  "notesZh": "复制进度升级：真实字节级百分比进度、复制过程中可随时取消、正在复制的文件夹显示 loading 转圈；完善传输相关多语言文案。"
 }
